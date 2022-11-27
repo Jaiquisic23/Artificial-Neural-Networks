@@ -1,1 +1,1 @@
-# Artificial-Neural-Networks
+# Regression task-Diamonds prediction
